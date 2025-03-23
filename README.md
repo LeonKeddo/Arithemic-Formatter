@@ -1,1 +1,1 @@
-# Arithemic-Formatter
+Arithmetic Formatter ist ein Python-Projekt aus dem FreeCodeCamp-Lehrplan, das mathematische Ausdrücke vertikal anzeigt und optional die Ergebnisse berechnet. Es überprüft die Eingabe auf Fehler wie ungültige Operatoren oder zu lange Zahlen.
